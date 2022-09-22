@@ -1,19 +1,19 @@
 .speech{
     color:black;
     font-family: "Times New Roman", Times, serif;
-    font-size: 14px;
+    font-size: 20px;
 }
 
 .song{
     color:black;
     font-family: "Times New Roman", Times, serif;
-    font-size: 14px;
+    font-size: 20px;
 }
 
 .direction{
     color:black;
     font-family: "Times New Roman", Times, serif;
-    font-size: 18px;
+    font-size: 15px;
     background-color: coral;
 }
 
@@ -25,7 +25,8 @@
 .name{
     color:black;
     font-family: "Times New Roman", Times, serif;
-    font-size: 16px;
+    font-size: 20px;
+    display: inline;
 }
 
 .name:hover {
